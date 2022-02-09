@@ -6,7 +6,7 @@
          MATH homepage
 	</title>
 </head>
-<body background="omg.png"style="background-repeat:no-repeat;background-size:100% 140%">
+<body background="ok.jpg"style="background-repeat:no-repeat;background-size:100% 140%">
 	<br />
 	<h3 align="center">
 	
