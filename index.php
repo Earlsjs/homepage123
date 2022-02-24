@@ -136,7 +136,7 @@
 	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 	<h1 align="center">
 		<font face="Lato" color="purple" size="7">
-		<a href="CRITQUE PAPER TEMPLATE.pdf">Click here for CAE</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="CRITIQUE PAPER TEMPLATE.pdf">Click here for CAE</a>&nbsp;&nbsp;&nbsp;&nbsp;
 		</font>
 	</h1>
 	<h3 align="center">
